@@ -7,6 +7,6 @@
 ![Python Certificate](./Python%20for%20Data%20Sceince.jpg)
 
 ### 🗄️ SQL and Relational Databases Certificate  
-![Relational DB Certificate](./SQL_and_Relational_Databases.jpg)
+![SQL Certificate](./SQL_and%20_Relational_%20Databases.jpg)
 
 
